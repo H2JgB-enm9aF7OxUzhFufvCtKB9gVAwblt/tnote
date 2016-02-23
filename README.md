@@ -1,19 +1,15 @@
 ## tnote
 
+This is my experiment and learning process for Python, github, etc. Sorry!
+
 [![GitHub license](https://img.shields.io/pypi/l/pyzipcode-cli.svg)](https://img.shields.io/pypi/l/pyzipcode-cli.svg) [![Supported python versions](https://img.shields.io/pypi/pyversions/Django.svg)]([![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)]()) [![Requirements Status](https://requires.io/github/prodicus/tnote/requirements.svg?branch=master)](https://requires.io/github/prodicus/tnote/requirements/?branch=master) [![Join the chat at https://gitter.im/prodicus/tnote](https://badges.gitter.im/prodicus/tnote.svg)](https://gitter.im/prodicus/tnote?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ```
-                            _________ _        _______ _________ _______ 
-                            \__   __/( (    /|(  ___  )\__   __/(  ____ \
-                               ) (   |  \  ( || (   ) |   ) (   | (    \/
-                               | |   |   \ | || |   | |   | |   | (__    
-                               | |   | (\ \) || |   | |   | |   |  __)   
-                               | |   | | \   || |   | |   | |   | (      
-                               | |   | )  \  || (___) |   | |   | (____/\
-                               )_(   |/    )_)(_______)   )_(   (_______/
+t
+	note
 ```
 
-A dead simple command line note taking app built for you!
+A dead simple command line note taking app built for me!
 
 ## Demo
 
@@ -82,19 +78,7 @@ This app was created in a timespan of 2 hours while learning to use [peewee (ORM
 #### To-do
     
 - [ ] Add **unit tests**. Like real quick!
-- [ ] Make it pip installable
-- [ ] Ability to edit the content of a note
-- [x] Add python2 support
-- [x] Add tags support for notes
-- [x] Remove tahs for notes
-- [x] Add option to add title for notes
-- [ ] Add option to remove title for notes
-- [x] Add option to search for notes using content
-- [x] Add option to search for notes using tags
-- [ ] Add option to search for notes using title
-- [ ] Add option to search for notes using timestamp
 - [x] Encrypt the `.db` file using **Sqlcipher**
-- [x] Add colorized text to the notes for improved UI
 - [ ] Add better UI using **urwid**
 
 #### Contributers
