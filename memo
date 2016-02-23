@@ -1,0 +1,8 @@
+2016-02-23
+
+To install
+⌨  sudo pip install --upgrade pip
+⌨  sudo pip install -r requirements.txt
+⌨  sudo apt-get install python-dev
+
+
